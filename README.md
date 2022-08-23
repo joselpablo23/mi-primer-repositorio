@@ -12,3 +12,5 @@
 **TEXTO EN NEGRITA**
 
 *italica*
+
+***italica y negrita***
